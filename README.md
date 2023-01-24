@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello,
+
+In AERE 361 I am interested in learning more C and Python Coding.
+I have been doing a lot of work on a balance control system for the AABL Wind Tunnel. This control system consist of a Raspberry Pi and Arduino Mega serial system with an advanced I/O system. I also am a lab tech for the Icing/De-Icing Wind Tunnel.
+
+I am a very avid rock climber and racquetball player.
+
 
 <!--
 **johnhilker/johnhilker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
